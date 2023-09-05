@@ -5,7 +5,7 @@
     </a>
 </h1>
 <p align="center">
-    <img align=center src="https://github.com/BestGamersH/LCQT2/tree/896468a1bebc1aa3591df76abfb9b2fab6bcd450/.github/assets" width="600" alt="screenshot of lcqt"></br>
+    <img align=center src="[https://github.com/BestGamersH/LCQT2/tree/896468a1bebc1aa3591df76abfb9b2fab6bcd450/.github/assets](https://github.com/BestGamersH/LCQT2/blob/896468a1bebc1aa3591df76abfb9b2fab6bcd450/.github/assets/Screenshot.png)" width="600" alt="screenshot of lcqt"></br>
 </p>
 
   ## FAQ
